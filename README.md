@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/igor-lisboa/igor-lisboa/blob/main/igor-lisboa.jpeg?raw=true" alt="Igor Lisboa" width="350px" />
+<img align="right" src="https://github.com/igor-lisboa/igor-lisboa/blob/main/igor-lisboa.png?raw=true" alt="Igor Lisboa" width="350px" />
 
 ### Hi, I’m Igor!
 
