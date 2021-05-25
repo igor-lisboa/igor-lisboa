@@ -13,6 +13,5 @@
 ### Specialties:
 * JavaScript, PHP, VB.NET, MySql.
 
-### Github Statistics
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=igor-lisboa&show_icons=true&theme=dark" alt="igor-lisboa | Stats" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lisboa&langs_count=6&theme=dark&layout=compact" alt="igor-lisboa | Langs" />
