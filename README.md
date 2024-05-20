@@ -1,17 +1,19 @@
 ## Hi, I’m Igor!
 
-* Since 2017, I am officially working as a Full-Stack Developer (front-end, back-end, dba), but actually I’ve been programming since 2013 in JAVA projects with HTML, CSS and with .NET framework since 2015.
-* Each new technology used in developing new applications or supporting old applications urge me to acquire vastly different skills and tools, thus increasing my technical knowledge.
-* Trying to learn something new every day.
+* Experienced Software Engineer with a background in developing, scaling, architecting, testing, and maintaining large-scale microservices, and APIs in highly critical environments, serving millions of users daily.
+* I consider myself passionate about solving problems and helping people. My main focus is delivering and adding value to the product, despite technicalities and tech preferences. If there’s a problem, there’s a way to solve it, I may not know how to solve all the problems but I will find a way.
+* The team and coworkers are very important to me. I came from a background with high-performance teams and I motivate and help the team to beat and surpass the goals from each quarter/sprint.
 
-### Skills:
-* JavaScript, TypeScript, Angular, Node, React, React Native, Vue, Ionic, Python, Java, C#, VB.NET, ASP.NET, PHP, Laravel, Git, PL/SQL, Oracle, MySql, PostgreSQL, MongoDb.
-
-### Interests:
-* .NET Core, Flutter, GraphQl, Docker.
-
-### Specialties:
-* JavaScript, PHP, VB.NET, MySql.
+### Technologies:
+- .NET / C# / PHP / Python / Java
+- REACT / VUE / ANGULAR / IONIC
+- Microservice / Clean Architecture / SOLID / Design Patterns
+- AWS / ON-PREMISE
+- Docker / K8S (Kubernetes)
+- Postgres / MySQL / Oracle / MongoDB / SQL Server (MSSQL)
+- Redis / RabbitMQ
+- Unitary Tests (xunit, nunit, jest) / JMETER (Load tests) / SELENIUM (E2E tests)
+- CI/CD (Github Actions / Azure DevOps Pipelines)
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=igor-lisboa&show_icons=true&theme=dark" alt="igor-lisboa | Stats" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-lisboa&langs_count=6&theme=dark&layout=compact" alt="igor-lisboa | Langs" />
