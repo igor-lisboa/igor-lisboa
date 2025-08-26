@@ -8,7 +8,11 @@ My background includes modernizing legacy platforms, architecting microservices,
 
 ⚠️ **Before you scroll through my repos…**  
 If you’re here to validate my skills as a developer, you’ll probably be disappointed.  
-Most of the code you’ll find here is **“Hello World”-like projects**—just me testing frameworks, languages, or cloud providers.  
+Most of the code you’ll find here is:  
+- 🧪 “Hello World”-like projects to test frameworks, languages, or cloud providers  
+- 📚 Study or university projects that served their purpose (and no, they’re not production-ready)  
+- 🤷 Experiments I started, poked at, and then abandoned  
+
 The **real, production-grade code** I’ve written lives in **private repositories** of the companies that were smart enough to hire me.  
 
 ---
